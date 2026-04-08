@@ -1,0 +1,31 @@
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ padding: 20px;
+ background-color:black;
+}
+
+input, textarea {
+  display: block;
+  margin: 10px 0;
+  width: 300px;
+  background-color: antiquewhite;
+}
+
+#resume, #coverLetter {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+  background-color:wheat ;
+}  
+h1{
+  color: aqua;
+} 
+h2{
+  color:aqua;
+} 
+button:hover {
+  background-color: aqua;
+  color: black;
+
+}
